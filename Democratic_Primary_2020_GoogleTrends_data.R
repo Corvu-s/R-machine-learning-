@@ -1,0 +1,6 @@
+yang=GoogleTrendsData[[1]]
+bern=GoogleTrendsData[[2]]
+biden=GoogleTrendsData[[3]]
+warr=GoogleTrendsData[[4]]
+pete=GoogleTrendsData[[5]]
+time=GoogleTrendsData[[1]]
